@@ -1,3 +1,6 @@
+Tested on the following:
+Samsung Default Browser
+Google Chrome on Android
 # mediaLab3
 
 This lab aims to build your first Augmented Reality (AR) app.
